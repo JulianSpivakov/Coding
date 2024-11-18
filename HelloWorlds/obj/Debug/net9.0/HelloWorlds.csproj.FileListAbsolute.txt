@@ -1,0 +1,14 @@
+c:\My Downloads\Coding\HelloWorlds\bin\Debug\net9.0\HelloWorlds.exe
+c:\My Downloads\Coding\HelloWorlds\bin\Debug\net9.0\HelloWorlds.deps.json
+c:\My Downloads\Coding\HelloWorlds\bin\Debug\net9.0\HelloWorlds.runtimeconfig.json
+c:\My Downloads\Coding\HelloWorlds\bin\Debug\net9.0\HelloWorlds.dll
+c:\My Downloads\Coding\HelloWorlds\bin\Debug\net9.0\HelloWorlds.pdb
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.GeneratedMSBuildEditorConfig.editorconfig
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.AssemblyInfoInputs.cache
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.AssemblyInfo.cs
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.csproj.CoreCompileInputs.cache
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.dll
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\refint\HelloWorlds.dll
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.pdb
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\HelloWorlds.genruntimeconfig.cache
+c:\My Downloads\Coding\HelloWorlds\obj\Debug\net9.0\ref\HelloWorlds.dll
